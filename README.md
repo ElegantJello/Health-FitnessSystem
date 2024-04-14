@@ -19,4 +19,5 @@ Installation:
 - Import 'main.py' from the /src folder into an IDE of your choosing
 - run 'main.py'
 
+YouTube link: https://www.youtube.com/watch?v=nGzXfKnT2Lk
 
